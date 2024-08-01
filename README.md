@@ -61,5 +61,4 @@ I am a 3rd year student at IRIT-RTF UrFU. I develop in different programming lan
 ## My stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1zbbxzak1&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1zbbxzak1&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1zbbxzak1&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1zbbxzak1&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1zbbxzak1&theme=tokyonight&utcOffset=5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1zbbxzak1&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1zbbxzak1&theme=tokyonight)
