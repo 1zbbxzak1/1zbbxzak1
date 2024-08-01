@@ -51,15 +51,8 @@ I am a 3rd year student at IRIT-RTF UrFU. I develop in different programming lan
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="center">My stats:</h3>
+### My stats:
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1zbbxzak1&theme=tokyonight" alt="Profile Details">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1zbbxzak1&theme=tokyonight" alt="Repos Per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1zbbxzak1&theme=tokyonight" alt="Most Commit Language">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1zbbxzak1&theme=tokyonight" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1zbbxzak1&theme=tokyonight&utcOffset=5" alt="Productive Time">
-</div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1zbbxzak1&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1zbbxzak1&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1zbbxzak1&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1zbbxzak1&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1zbbxzak1&theme=tokyonight)
