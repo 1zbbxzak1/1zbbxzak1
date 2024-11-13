@@ -3,7 +3,8 @@
 
 I am a 3rd year student at IRIT-RTF UrFU. I develop in different programming languages, go to the gym, sometimes participate in hackathons. You can read more in my resume.
 
-[Resume](https://drive.google.com/file/d/1QbuYdg03lIQkFVGExu5sCv5kHbLoXgWY/view?usp=sharing)
+[Resume 1](https://drive.google.com/file/d/1spxh5WUHRdaHkSuoYU_ysKIVK7PxrVoY/view?usp=drive_link)
+[Resume 2](https://drive.google.com/file/d/1B9EvI4eK1CkWR7VJm2w2jVFW7rM-vJ8p/view?usp=drive_link)
 
 <p align="left">
   <a href="https://vk.com/wkaii"><img width="32" src="https://raw.githubusercontent.com/raitonoberu/round-icons/master/128/vkontakte.png"></a>
